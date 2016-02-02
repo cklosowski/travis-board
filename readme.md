@@ -1,5 +1,5 @@
 # TravisBoard
-A quick output of a table showing build status reports for a Travis-CI project.
+A quick output of a table showing build status reports for a Travis-CI project, for use with the StatusBoard iPad app from Panic.
 
 You will need to update line 3 of the project to be the endpoint of your prject on Travis-CI
 ```
